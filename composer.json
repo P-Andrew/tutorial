@@ -1,0 +1,10 @@
+{
+    "name": "root/tutorial",
+    "authors": [
+        {
+            "name": "chenjili",
+            "email": "zhongsan7@163.com"
+        }
+    ],
+    "require": {}
+}
